@@ -1,0 +1,9 @@
+# Ignore everything by default
+/*
+
+# Keep the gitignore itself so the rules are preserved
+!/.gitignore
+
+# Explicitly allow the backend and frontend folders
+!/backend/
+!/frontend/
